@@ -8,6 +8,6 @@ I am interested in knowing the markup for this editor. I wish I had an S key! I 
 * Tollbooth
 * Bullets??
 * WOW!
-* #WOW!
+* # WOW!
 
 % GOAL
